@@ -1,0 +1,3 @@
+Creating my first repository on Git Kraken
+Date 31st Oct
+Hands on excersize
